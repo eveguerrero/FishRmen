@@ -90,9 +90,7 @@
       background-color: lightblue;
   }
 
-  * {
-    box-sizing: border-box;
-  }
+  
   form.search-fish input[type=text] {
     padding: 10px;
     font-size: 17px;
@@ -102,8 +100,4 @@
     background: #f1f1f1;
   }
 
-  form.example button:hover {
-    background: #0b7dda;
-    padding: 10px;
-  }
   
